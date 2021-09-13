@@ -3,6 +3,5 @@
 
 ## Usage 
 ```
-cd ~
 python main.py
 ```

@@ -1,3 +1,4 @@
 #!/bin/python3
 
-print("上手")
+with open('data/sample1.txt', 'r') as f:
+    print(f.read())
